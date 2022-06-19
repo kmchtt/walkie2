@@ -1,0 +1,2 @@
+WALKIE2URDF_DESCRIPTION-main:realsense_gazebo_plugin
+-DCATKIN_DEVEL_PREFIX=/home/kmchtt/walkie2/devel -DCMAKE_INSTALL_PREFIX=/home/kmchtt/walkie2/install -G Unix Makefiles

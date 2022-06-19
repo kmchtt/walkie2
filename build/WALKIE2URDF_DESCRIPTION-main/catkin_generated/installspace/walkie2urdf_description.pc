@@ -1,0 +1,8 @@
+prefix=/home/kmchtt/walkie2/install
+
+Name: walkie2urdf_description
+Description: Description of walkie2urdf_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
